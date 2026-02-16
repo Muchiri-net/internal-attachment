@@ -2,7 +2,7 @@ body{
     margin : 0;
     font-family:Arial;
     color:brown;
-    background-image:url('C:/Users/User/Pictures/tourist.jpg');
+    background-image:url(tourists.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     height: 100%;
