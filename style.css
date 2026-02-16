@@ -1,8 +1,8 @@
 body{
     margin : 0;
     font-family:Arial;
-    color:white;
-    background-image:url(tourists.jpg);
+    color:rgb(255, 4, 4);
+    background-image:url(tourists.png);
     background-size:cover;
     background-repeat: no-repeat;
     height: 100%;
@@ -77,9 +77,9 @@ body{
     height: 30px;
     margin-right: 10px;
 }
-footer {
-  background-color: grey;
+.site-footer {
+  background-color: lightseagreen;
   display:flex;
   justify-content:space-between;
-  padding: 60px;
+  padding: 15px;
 }
