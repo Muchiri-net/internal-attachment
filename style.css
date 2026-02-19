@@ -56,11 +56,11 @@ body{
     height: 30px;
     background-color:grey;
 }
-.search-button{
+.Search-button{
     background-color: green;
     font-size: 18px;
     border-radius: 50px;
-    padding: 15px 25px;
+    padding: 5px 15px;
     cursor: pointer;
 }
 .search-button:hover{
