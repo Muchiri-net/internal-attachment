@@ -19,7 +19,7 @@ body{
 }
 .nav-links a{
     text-decoration:underline;
-    color:maroon;
+    color:darkblue;
     font-size:18px;
 }
 .nav-links a:hover{
