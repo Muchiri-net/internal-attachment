@@ -11,6 +11,7 @@ body{
     display:flex;
     justify-content:space-between;
     align-items:center;
+    font-weight: bold;
     padding:50px;
 }
 .nav-links{
@@ -23,7 +24,7 @@ body{
     font-size:18px;
 }
 .nav-links a:hover{
-    color:darkgreen;
+    color:red;
     text-decoration:none;
 }
 .header-section{
@@ -79,6 +80,7 @@ body{
 }
 .site-footer {
   background-color: lightseagreen;
+  color:white;
   display:flex;
   justify-content:space-between;
   padding: 15px;
