@@ -83,3 +83,11 @@ body{
   justify-content:space-between;
   padding: 15px;
 }
+.footer-links{
+    display: flex;
+    gap: 20px;
+}
+.footer-links a{
+    text-decoration: underline;
+    color: darkblue;
+}
