@@ -20,7 +20,7 @@ body{
 }
 .nav-links a{
     text-decoration:underline;
-    color:darkblue;
+    color: blue;
     font-size:18px;
 }
 .nav-links a:hover{
@@ -71,7 +71,7 @@ body{
     align-items: center;
     font-size: 24px;
     font-weight: bold;
-    color:rgb(0, 255, 255)
+    color: rgb(4, 4, 112)
 }
 .logo img{
     width: 30px;
